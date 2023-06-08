@@ -18,7 +18,7 @@
 		"coordinates": [-0.07573787, 51.50854694]
 	},
 	"types": [
-		{ "label": "castle", "identifier": "https://www.wikidata.org/wiki/Q23413" },
+		{ "label": "Bijay", "identifier": "https://www.wikidata.org/wiki/Q23413" },
 		{ "label": "palace", "identifier": "https://www.wikidata.org/wiki/Q16560" }
 	],
 	"descriptions": [
