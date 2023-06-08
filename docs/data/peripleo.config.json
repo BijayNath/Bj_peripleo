@@ -8,3 +8,29 @@
       }
     ]
   }
+{
+	"type": "Feature",
+	"properties": {
+		"title": "Tower of Bijay"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [-0.07573787, 51.50854694]
+	},
+	"types": [
+		{ "label": "castle", "identifier": "https://www.wikidata.org/wiki/Q23413" },
+		{ "label": "palace", "identifier": "https://www.wikidata.org/wiki/Q16560" }
+	],
+	"descriptions": [
+		{ "@id": "https://en.wikipedia.org/wiki/White_Tower_%28Tower_of_London%29", "value": "The White Tower is a central tower, the old keep, at the Tower of London. It was built by William the Conqueror during the early 1080s, and subsequently extended. The White Tower was the castle's strongest point militarily, and provided accommodation for the king and his representatives, as well as (...)" },
+		{ "@id": "https://en.wikipedia.org/wiki/Traitors%27_Gate", "value": "The Traitor's Gate is an entrance through which many prisoners of the Tudors arrived at the Tower of London. The gate was built by Edward I, to provide a water gate entrance to the Tower, part of St. Thomas's Tower, which was designed to provide additional accommodation for the royal family (...)" }
+	],
+	"depictions": [
+		{ "@id": "https://www.geograph.org.uk/photo/4142029", "title": "TQ3380 : Poppies in the Moat, Tower of London, E1" },
+		{ "@id": "https://www.geograph.org.uk/photo/2476055", "title": "TQ3380 : The Tower of London" }
+	],
+	"links": [
+		{ "type": "primaryTopicOf", "identifier": "https://historicengland.org.uk/listing/the-list/list-entry/1002061" },
+		{ "type": "primaryTopicOf", "identifier": "https://historicengland.org.uk/listing/the-list/list-entry/1000092" }
+	]
+}
